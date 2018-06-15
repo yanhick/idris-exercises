@@ -1,0 +1,26 @@
+1
+Vect n elem
+Vect n elem
+
+id
+fmap (+)
+
+2
+Vect n elem
+Vect (n * 2) elem
+
+repeat
+append with n length
+
+3
+Vect (1 + n) elem
+Vect n elem
+
+delete elem
+tail
+
+4
+Bounded n, Vect n elem
+elem
+
+index
